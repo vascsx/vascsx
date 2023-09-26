@@ -1,5 +1,8 @@
-# 💫 About Me:
-Fala programador, seja bem vindo ao meu perfil no github!!!<br>Sou estudante de Ciência da Computação, estou no segundo semestre<br>e atualmente estou estudando C#, Angular e MySql.<br>Estou buscando a primeira oportunidade na área.
+
+Hey programmer, welcome to my github profile!!!
+I'm a Computer Science student, I'm in the second semester
+I'm currently studying C#, Angular and MySql.
+I'm looking for my first opportunity in the area.
 
 
 # 💻 Tech Stack:
