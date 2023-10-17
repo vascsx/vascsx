@@ -1,5 +1,5 @@
 
-Hey programmer, welcome to my github profile!!!<br>I'm a Computer Science student, I'm in the second semester<br>I'm currently studying C#, Angular and MySql.<br>I'm looking for my first opportunity in the area.
+Hey programmer, welcome to my github profile!!!<br>I'm a Computer Science student, I'm in the second semester<br>I'm currently studying C#, React and MySql.<br>I'm looking for my first opportunity in the area.
 
 
 # 💻 Tech Stack:
