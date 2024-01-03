@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey programmer, welcome to my github profile!!!<br>I'm a Computer Science student, I'm in the third semester<br>I'm currently studying Flutter and MySQL.<br>I'm looking for my first opportunity in the area
+Hey programmer, welcome to my github profile!!!<br>I'm a Computer Science student, I'm in the third semester<br>I'm currently studying Flutter and SQLite.<br>I'm looking for my first opportunity in the area
 
 
 ## 🌐 Socials:
