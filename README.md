@@ -25,21 +25,24 @@
 ---
 
 ### 🚀 Main skills:
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 
 ---
 
 ### 📚 Studying in this moment:
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
+![K6](https://img.shields.io/badge/-k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+
 
 ---
 
